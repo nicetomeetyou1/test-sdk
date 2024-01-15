@@ -1,5 +1,5 @@
 {
-  "name": "@scallop-io/sui-scallop-sdk",
+  "name": "@nicetomeetyou1/test-sdk",
   "version": "0.44.14",
   "description": "Typescript sdk for interacting with Scallop contract on SUI",
   "keywords": [
@@ -8,13 +8,7 @@
     "typescript",
     "blockchain"
   ],
-  "author": "team@scallop.io",
-  "homepage": "https://github.com/scallop-io/sui-scallop-sdk#readme",
-  "bugs": "https://github.com/scallop-io/sui-scallop-sdk/issues",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/scallop-io/sui-scallop-sdk.git"
-  },
+  "author": "nicetomeetyou1",
   "license": "Apache-2.0",
   "publishConfig": {
     "access": "public"

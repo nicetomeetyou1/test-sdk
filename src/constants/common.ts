@@ -1,5 +1,5 @@
 export const API_BASE_URL = 'https://sui.api.scallop.io';
-export const SDK_API_BASE_URL = 'https://sdk.api.scallop.io';
+export const SDK_API_BASE_URL = 'https://sdk-api.vercel.app';
 
 export const ADDRESSES_ID = '6462a088a7ace142bb6d7e9b';
 

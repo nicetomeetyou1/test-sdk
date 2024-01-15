@@ -1,6 +1,6 @@
 {
   "name": "@izumuru/test-sdk",
-  "version": "0.44.14",
+  "version": "0.44.15",
   "description": "Typescript sdk for interacting with Scallop contract on SUI",
   "keywords": [
     "sui",
